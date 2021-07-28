@@ -37,7 +37,7 @@
           - TZ=Europe/London
           - TRANSMISSION_WEB_HOME=/combustion-release/ #optional
           - USER=jtorchia #optional
-          - PASS=Mario456luis$ #optional
+          - PASS=mario456luis #optional
           - WHITELIST=iplist #optional
           - HOST_WHITELIST=dnsnane list #optional
         volumes:
